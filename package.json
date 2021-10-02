@@ -4,8 +4,8 @@
   "description": "Lymhurst Bot",
   "main": "main.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1",
-    "start": "node ."
+    "start": "node .",
+    "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "Oscar Shi",
   "license": "ISC",
