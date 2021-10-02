@@ -1,0 +1,37 @@
+[
+  {
+    "Character": {
+      "guildId": "726882830491058239",
+      "joinedTimestamp": 1629467808734,
+      "premiumSinceTimestamp": null,
+      "deleted": false,
+      "nickname": "Movieboy",
+      "pending": false,
+      "userId": "519184047231205378",
+      "displayName": "Movieboy",
+      "roles": [
+        "877326954779508777",
+        "726882830491058239"
+      ]
+    }
+  },
+  {
+    "Character": {
+      "guildId": "726882830491058239",
+      "joinedTimestamp": 1621878733438,
+      "premiumSinceTimestamp": null,
+      "deleted": false,
+      "nickname": null,
+      "pending": false,
+      "userId": "215497987688890378",
+      "displayName": "Movieboy",
+      "roles": [
+        "877326954779508777",
+        "848557101042106418",
+        "867128580675469312",
+        "837345833024225342",
+        "726882830491058239"
+      ]
+    }
+  }
+]
